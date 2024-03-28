@@ -1,0 +1,26 @@
+train: /home/otabek/product_dl/Data/train_data/images
+val: /home/otabek/product_dl/Data/val_data/images
+
+nc : 20
+
+names:
+  0: "Haetae Poki Blueberry 41G"
+  1: "Kkokkal Kon Gosohanmat 72G"
+  2: "Nongsim Ojingeo Jib 83G"
+  3: "Nongsim Maeun Saewu Kkang 90G"
+  4: "Crown Corn Choco 66G"
+  5: "Nongsim Banana Kick 75G"
+  6: "Lotte Jairritol Beta Vita D Yonggi 86G"
+  7: "Ricolala Ricolala Swiss Candy Cranberry Mat 40G"
+  8: "Cabin Dish Habtropical Candy 200G"
+  9: "Lotte Dream Cacao 82 (GABA) 86G"
+  10: "Yours Gwangdong Eoseongcho 500ml"
+  11: "Haetae Sun Kissed Grapefruit Soda 350ML (PET)"
+  12: "Lotte Goryeo Hong Sam 180ML"
+  13: "Woongjin Green Honey Plum 180ML"
+  14: "Woongjin Morning Sunshine 500ML"
+  15: "Woongjin Morning Sunshine 180ML"
+  16: "Sun Kissed Family Orange 180ML"
+  17: "Coca-Cola Seagram's Plain 350ML"
+  18: "Ilhwa Maekcol 500ML"
+  19: "Lotte Sarang Choc Choc Sparkling 330ML"
