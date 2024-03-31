@@ -1,9 +1,9 @@
 # MOITECH-company
 
+- The company provided me images and annotated files, types of drinks and snacks
+- Deployed 5 object detection models using Yolov8-L, Yolov8-M, Yolov8-N, Yolov8-S, Yolov9
+- Building an application for showcasing potential investors
 
-the company provided me images and annotated files as well, 20 different types of drinks and snacks.
-
-we deployed object detection model, using Yolov8 (L,M,N,S), Yolov9
 
 
 
